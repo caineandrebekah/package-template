@@ -1,13 +1,17 @@
-# Package Template
+# Button
 
 ## Repository
 
-[https://cainenielsen/package-template](https://github.com/cainenielsen/package-template)
+https://github.com/cainenielsen/package-template
 
 ## Installation
 Run:
 
-`npm install cainenielsen/package-template`
+`npm install cainenielsen/button`
+
+Or
+
+`npm install https://github.com/cainenielsen/package-template`
 
 - *Do not include the @ in the name, as this limits the scope to NPM's pacakge registry.*
 
