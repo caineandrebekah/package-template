@@ -3,7 +3,7 @@ name: Publish On Commit
 on:
   push:
     branches:
-      - main # Change this to your default branch
+      - master
 
 jobs:
   npm-publish:
