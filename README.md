@@ -1,5 +1,4 @@
 # Package Template
-
 ## Repository
 
 https://github.com/caineandrebekah/package-template
