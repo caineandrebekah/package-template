@@ -40,4 +40,4 @@ jobs:
         with:
           token: ${{secrets.NPM_TOKEN}}
           tag: latest
-          package: ../../package.json
+          # package: ../../package.json
