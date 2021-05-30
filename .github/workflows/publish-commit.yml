@@ -45,3 +45,4 @@ jobs:
         with:
           token: ${{secrets.NPM_TOKEN}}
           tag: latest
+          access: public
