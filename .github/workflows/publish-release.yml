@@ -32,9 +32,9 @@ jobs:
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
-    publish-npm:
-      steps:
-        - uses: JS-DevTools/npm-publish@v1
-          with:
-            token: ${{secrets.NPM_TOKEN}}
-            tag: latest
+  publish-npm:
+    steps:
+      - uses: JS-DevTools/npm-publish@v1
+        with:
+          token: ${{secrets.NPM_TOKEN}}
+          tag: latest
