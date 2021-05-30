@@ -4,15 +4,19 @@
 
 https://github.com/cainenielsen/package-template
 
+## NPM Listing
+
+https://www.npmjs.com/package/@cainenielsen/package-template
+
 ## Installation
 Run:
 
-`npm install cainenielsen/button`
+`npm install @cainenielsen/package-template`
 
 Or
 
 `npm install https://github.com/cainenielsen/package-template`
 
-- *Do not include the @ in the name, as this limits the scope to NPM's pacakge registry.*
+- *You can also choose to download this package from GitHub by removing the @ before the name.*
 
 - *You can use the @latest tag to reference the latest version.*
