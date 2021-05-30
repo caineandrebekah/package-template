@@ -1,22 +1,26 @@
-# Button
+# Package Template
 
 ## Repository
 
-https://github.com/cainenielsen/package-template
+https://github.com/caineandrebekah/package-template
 
 ## NPM Listing
 
 https://www.npmjs.com/package/@cainenielsen/package-template
 
 ## Installation
+
 Run:
 
-`npm install @cainenielsen/package-template`
-
-Or
-
-`npm install https://github.com/cainenielsen/package-template`
+`npm install @caineandrebekah/package-template`
 
 - *You can also choose to download this package from GitHub by removing the @ before the name.*
 
-- *You can use the @latest tag to reference the latest version.*
+Or
+
+`npm install https://github.com/caineandrebekah/package-template`
+
+
+### Versions
+
+*You can use the @latest tag to reference the latest version.*
